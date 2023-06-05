@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Brutalist Minimalist</title>
+    <link>http://brutalist-minimalist.glitzersachen.de/</link>
+    <description>Recent content in Welcome on Brutalist Minimalist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Feb 2022 23:27:50 +0100</lastBuildDate><atom:link href="http://brutalist-minimalist.glitzersachen.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For Online Reading Only</title>
+      <link>http://brutalist-minimalist.glitzersachen.de/disclaimer/online-only/</link>
+      <pubDate>Wed, 30 Mar 2022 18:50:14 +0200</pubDate>
+      
+      <guid>http://brutalist-minimalist.glitzersachen.de/disclaimer/online-only/</guid>
+      <description>No downloadable version is available, this work is only for online reading.</description>
+    </item>
+    
+    <item>
+      <title>Given Publisher is Publisher of an Earlier Version</title>
+      <link>http://brutalist-minimalist.glitzersachen.de/disclaimer/publisher-formerly/</link>
+      <pubDate>Wed, 30 Mar 2022 18:50:14 +0200</pubDate>
+      
+      <guid>http://brutalist-minimalist.glitzersachen.de/disclaimer/publisher-formerly/</guid>
+      <description>The publisher given is the publisher of an earlier version. The version referenced has probably been modified compared with the version originally published by the given publisher.</description>
+    </item>
+    
+    <item>
+      <title>Homepage not Available</title>
+      <link>http://brutalist-minimalist.glitzersachen.de/disclaimer/homepage-na/</link>
+      <pubDate>Wed, 30 Mar 2022 18:50:14 +0200</pubDate>
+      
+      <guid>http://brutalist-minimalist.glitzersachen.de/disclaimer/homepage-na/</guid>
+      <description>There is no homepage available for this book/work. Please verify the copyright status by other means, like consulting the text frontmatter, searching for information using the search engine of your choice or obtain historical information from the wayback machine.</description>
+    </item>
+    
+    <item>
+      <title>No Direct Download Link</title>
+      <link>http://brutalist-minimalist.glitzersachen.de/disclaimer/no-direct-download/</link>
+      <pubDate>Wed, 30 Mar 2022 18:50:14 +0200</pubDate>
+      
+      <guid>http://brutalist-minimalist.glitzersachen.de/disclaimer/no-direct-download/</guid>
+      <description>No direct download link can be provided. According to our understanding, the copyright holders or the authors require that you go via the item homepage.</description>
+    </item>
+    
+    <item>
+      <title>Verify Copyright Despite Direct Download Link</title>
+      <link>http://brutalist-minimalist.glitzersachen.de/disclaimer/direct-download/</link>
+      <pubDate>Wed, 30 Mar 2022 18:50:14 +0200</pubDate>
+      
+      <guid>http://brutalist-minimalist.glitzersachen.de/disclaimer/direct-download/</guid>
+      <description>A direct download link is available, regardless it is strongly recommended that you verify the copyright status, e.g. by consulting the frontmatter or the homepage.</description>
+    </item>
+    
+    <item>
+      <title>Verify the Copyright</title>
+      <link>http://brutalist-minimalist.glitzersachen.de/disclaimer/verify-copyright/</link>
+      <pubDate>Wed, 30 Mar 2022 18:50:14 +0200</pubDate>
+      
+      <guid>http://brutalist-minimalist.glitzersachen.de/disclaimer/verify-copyright/</guid>
+      <description>We are not making legally binding statements on the copright status of the linked work. It is necessary that you verify the copyright status yourself, e.g. by consulting the frontmatter or the homepage.</description>
+    </item>
+    
+    <item>
+      <title>123</title>
+      <link>http://brutalist-minimalist.glitzersachen.de/blog/123/</link>
+      <pubDate>Mon, 14 Feb 2022 23:27:50 +0100</pubDate>
+      
+      <guid>http://brutalist-minimalist.glitzersachen.de/blog/123/</guid>
+      <description>asfasfsadfasfasfsadfasfasfsadfasfasfsadfasfasfsadfasfasfsadf</description>
+    </item>
+    
+    <item>
+      <title>123</title>
+      <link>http://brutalist-minimalist.glitzersachen.de/blog/123_%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 14 Feb 2022 23:27:50 +0100</pubDate>
+      
+      <guid>http://brutalist-minimalist.glitzersachen.de/blog/123_%E5%89%AF%E6%9C%AC/</guid>
+      <description>asfasfsadfasfasfsadfasfasfsadfasfasfsadfasfasfsadfasfasfsadf</description>
+    </item>
+    
+  </channel>
+</rss>
